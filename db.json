@@ -1,12 +1,14 @@
-{
-  "posts": [
-    { "id": 1,
-     "name": "animal",
-     "link": "http" }
-  ],
-  "comments": [
-    { "id": 1,
-     "name": "animaux",
-     "link": "http" }
-  ],
+ {
+         "id":1,
+         "name":"animal",
+         "link":"http"
+      }
+   ],
+   "comments":[
+      {
+         "id":1,
+         "name":"animaux",
+         "link":"http"
+      }
+   ]
 }
