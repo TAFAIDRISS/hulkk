@@ -1,13 +1,19 @@
 {
-  "posts": [
-    { "id": 1, 
-     "name": "json-server", 
-     "link": "typicode" }
-  ],
-  "comments": [
-    { "id": 2,
-     "name": "some comment"
-     , "link":"http" }
-  ],
-  "profile": { "name": "typicode" }
+  "movies": [
+    {
+      "id": "1",
+        "name": "nameeeeeeeeee",
+        "image": "urlllllllllllllllllllllllllllll"
+    },
+    {
+       "id": "2",
+        "name": "nameeeeeeeeee",
+        "image": "urlllllllllllllllllllllllllllll"
+    },
+    {
+     "id": "3",
+        "name": "nameeeeeeeeee",
+        "image": "urlllllllllllllllllllllllllllll"
+    }
+    ]
 }
